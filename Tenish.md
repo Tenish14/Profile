@@ -1,27 +1,19 @@
-
-
-
 ### Hi there 👋
 
 ## I'm Tenish.
 
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Working as a Software Engineer based in Kuala Lumpur, Malaysia
 
-
 <br>
-
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
 
-  
-  
-  
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -30,8 +22,6 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 
-
-  
 </td>
 
 <td width="50%" align="center">
@@ -44,23 +34,8 @@
 
 <br>
 
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-                                                                                    
-
-
-
-
-
-
-
-
 
 
 <br>
@@ -76,22 +51,10 @@
 
  <hr>
 
-
-
-
-
-
 <br>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tenish14&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
 
  <br> 
  
@@ -105,12 +68,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tenish-r-67180711a/" target="_blank">
   <img align="center" alt="Tenish | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:tenish02@gmail.com" >
-  <img align="center" alt="Tenish | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/tenish.remish.5/">
-    <img align="center" alt="Tenish | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
   
@@ -138,11 +95,8 @@
   
   
   <br>
-  <p align="center">
-  <img src="https://github.com/Tenish14/Tenish14/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <!-- <p align="center"> -->
+  <!-- <img src="https://github.com/Tenish14/Tenish14/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
 </p>
 
-
-
-
-------
+---
